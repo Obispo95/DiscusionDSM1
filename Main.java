@@ -1,7 +1,9 @@
 import java.util.*;
 class Main {
   public static void main(String[] args) {
-    Scanner read = new Scanner(System.in);
+
+    //Discusion1
+    /*Scanner read = new Scanner(System.in);
     int num1, num2, result;
 
     System.out.print("Programa para saber si dos numeros son divisibles...");
@@ -16,6 +18,10 @@ class Main {
       System.out.print("Los numeros son divisibles");
     }else{
       System.out.print("No son divisibles");
-    }
+    }*/
+
+    
+
+
   }
 }
